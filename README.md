@@ -1,2 +1,2 @@
 # Site responsivo
- Primeiro site quase responsivo feito em html e css 
+ Estou aprendendo a usar o github e a mexer com repositorios locais ou hospedados
